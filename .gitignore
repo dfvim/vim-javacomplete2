@@ -24,3 +24,5 @@ libs/javavi/target/
 # ignore vim's help tags
 doc/tags
 tags
+# ignore commit message
+.gitcommit
